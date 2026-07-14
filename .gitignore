@@ -1,0 +1,24 @@
+# Obsidian local UI state
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/plugins/
+
+# Paper originals and extracted bulky artifacts
+paper/*.pdf
+paper/_extracted_summaries.txt
+copyright/*.pdf
+copyright/*.png
+copyright/*.txt
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.bak
+
+# Python/cache noise
+__pycache__/
+*.py[cod]
+.pytest_cache/
